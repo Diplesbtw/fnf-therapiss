@@ -186,6 +186,7 @@ class PlayState extends MusicBeatState
 
 	var halloweenBG:BGSprite;
 	var halloweenWhite:BGSprite;
+	var chairs:BGSprite;
 
 	var phillyCityLights:FlxTypedGroup<BGSprite>;
 	var phillyTrain:BGSprite;
@@ -631,6 +632,17 @@ class PlayState extends MusicBeatState
 					bgGirls.updateHitbox();
 					add(bgGirls);
 				}
+
+				case 'therapyroom': //OH MY GOD I DON'T FUCKING CARE
+				defaultCamZoom = 0.7;
+
+				var bg:BGSprite = new BGSprite('baground', -3.9, -5.85, 1, 1);
+				bg.setGraphicSize(Std.int(bg.width * 1.0));
+				bg.updateHitbox();
+				add(bg);
+
+				var chairs:BGSprite = new BGSprite('chairs', 263, 700, 1, 1);
+				add(chairs);
 
 			case 'schoolEvil': //Week 6 - Thorns
 				GameOverSubstate.deathSoundName = 'fnf_loss_sfx-pixel';

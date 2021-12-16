@@ -1,0 +1,10 @@
+{
+	"idle_anim": "patient idle",
+	"image": "Menu_Patient",
+	"position": [
+		-30,
+		-90
+	],
+	"scale": 0.85,
+	"confirm_anim": "M Dad Idle"
+}

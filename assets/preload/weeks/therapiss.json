@@ -1,0 +1,31 @@
+{
+	"storyName": "therapy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "thing",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"therapiss",
+			"therapist",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"threapiss",
+		"",
+		"patient"
+	],
+	"weekName": "therapy"
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_therapiss.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="therapiss white0000" x="0" y="0" width="974" height="281"/>
+	<SubTexture name="therapiss white0001" x="974" y="0" width="974" height="281"/>
+	<SubTexture name="therapiss white0002" x="0" y="281" width="974" height="281"/>
+	<SubTexture name="therapiss basic0000" x="0" y="0" width="974" height="281"/>
+	<SubTexture name="therapiss basic0001" x="0" y="0" width="974" height="281"/>
+	<SubTexture name="therapiss basic0002" x="974" y="281" width="974" height="281"/>
+	<SubTexture name="therapiss basic0003" x="974" y="281" width="974" height="281"/>
+	<SubTexture name="therapiss basic0004" x="0" y="281" width="974" height="281"/>
+	<SubTexture name="therapiss basic0005" x="0" y="281" width="974" height="281"/>
+	<SubTexture name="therapiss basic0006" x="0" y="562" width="974" height="281"/>
+	<SubTexture name="therapiss basic0007" x="0" y="562" width="974" height="281"/>
+	<SubTexture name="therapiss basic0008" x="974" y="0" width="974" height="281"/>
+	<SubTexture name="therapiss basic0009" x="974" y="0" width="974" height="281"/>
+	<SubTexture name="therapiss basic0010" x="974" y="562" width="974" height="281"/>
+	<SubTexture name="therapiss basic0011" x="974" y="562" width="974" height="281"/>
+</TextureAtlas>
